@@ -1,0 +1,4 @@
+baseURL = "https://animequrtezufu.vercel.app"
+languageCode = "en-us"
+title = "Anime Boy Cool"
+theme = "hugo-theme-minos"
